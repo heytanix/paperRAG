@@ -1,0 +1,697 @@
+[
+  {
+    "title": "Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View",
+    "authors": [
+      "Xuan Liu",
+      "Jie Zhang",
+      "Haoyang Shang",
+      "Song Guo",
+      "Chengxu Yang",
+      "Quanyan Zhu"
+    ],
+    "arxiv_id": "2405.14744v5",
+    "abstract": "Large language models (LLMs) have been shown to face hallucination issues due to the data they trained on often containing human bias; whether this is reflected in the decision-making process of LLM Agents remains under-explored. As LLM Agents are increasingly employed in intricate social environments, a pressing and natural question emerges: Can we utilize LLM Agents' systematic hallucinations to mirror human cognitive biases, thus exhibiting irrational social intelligence? In this paper, we probe the irrational behavior among contemporary LLM Agents by melding practical social science experiments with theoretical insights. Specifically, We propose CogMir, an open-ended Multi-LLM Agents framework that utilizes hallucination properties to assess and enhance LLM Agents' social intelligence through cognitive biases. Experimental results on CogMir subsets show that LLM Agents and humans exhibit high consistency in irrational and prosocial decision-making under uncertain conditions, underscoring the prosociality of LLM Agents as social entities and highlighting the significance of hallucination properties. Additionally, the CogMir framework demonstrates its potential as a valuable platform for encouraging more research into the social intelligence of LLM Agents.",
+    "filename": "Exploring_Prosocial_Irrationality_for_LLM_Agents_A_Social_Cognition_View.pdf"
+  },
+  {
+    "title": "LLM agents security duality: a comprehensive survey of self-security and empowered cybersecurity",
+    "authors": [
+      "Yiwei Xu",
+      "Yong Zhuang",
+      "Xuanming Liu",
+      "Tian Zhang",
+      "Bowen Xiao",
+      "Xiaoyang Xu",
+      "Delong Jiang",
+      "Juan Wang",
+      "Hongxin Hu"
+    ],
+    "arxiv_id": "2606.28450v1",
+    "abstract": "Large language model (LLM) agents are rapidly being integrated into real-world systems. Their autonomy and tool-use capabilities generate substantial value while simultaneously expanding the security attack surface. This survey provides a comprehensive overview of the opportunities and challenges of LLM agents in security, focusing on two core areas: (1) threats to LLM agents themselves and corresponding mitigation strategies (LLM agents self-security), and (2) the role of LLM agents in empowering the cybersecurity lifecycle across offense and defense (LLM agents empowered cybersecurity). We first examine the internal and external attack surfaces of agents, propose a taxonomy organized by threat sources, and analyze associated mitigations and evaluation frameworks. We then investigate how agent capabilities are applied in cybersecurity practice and present, to our knowledge, the first agent-empowerment framework aligned with the full cyber offense-defense lifecycle. By systematically surveying these two areas, we are the first to highlight a positive feedback synergy between LLM agents self-security and empowered cybersecurity, offering new insights for the advancement of both. We further identify current limitations and outline promising directions for future research. The insights provided aim to catalyze the coordinated development of LLM agents self-security and agent empowered cybersecurity, paving the way for more capable and robust agent applications.",
+    "filename": "LLM_agents_security_duality_a_comprehensive_survey_of_self-security_and_empowered_cybersecurity.pdf"
+  },
+  {
+    "title": "Building LLM Agents by Incorporating Insights from Computer Systems",
+    "authors": [
+      "Yapeng Mi",
+      "Zhi Gao",
+      "Xiaojian Ma",
+      "Qing Li"
+    ],
+    "arxiv_id": "2504.04485v1",
+    "abstract": "LLM-driven autonomous agents have emerged as a promising direction in recent years. However, many of these LLM agents are designed empirically or based on intuition, often lacking systematic design principles, which results in diverse agent structures with limited generality and scalability. In this paper, we advocate for building LLM agents by incorporating insights from computer systems. Inspired by the von Neumann architecture, we propose a structured framework for LLM agentic systems, emphasizing modular design and universal principles. Specifically, this paper first provides a comprehensive review of LLM agents from the computer system perspective, then identifies key challenges and future directions inspired by computer system design, and finally explores the learning mechanisms for LLM agents beyond the computer system. The insights gained from this comparative analysis offer a foundation for systematic LLM agent design and advancement.",
+    "filename": "Building_LLM_Agents_by_Incorporating_Insights_from_Computer_Systems.pdf"
+  },
+  {
+    "title": "Reproducing and Extending Experiments in Behavioral Strategy with Large Language Models",
+    "authors": [
+      "Daniel Albert",
+      "Stephan Billinger"
+    ],
+    "arxiv_id": "2410.06932v1",
+    "abstract": "In this study, we propose LLM agents as a novel approach in behavioral strategy research, complementing simulations and laboratory experiments to advance our understanding of cognitive processes in decision-making. Specifically, we reproduce a human laboratory experiment in behavioral strategy using large language model (LLM) generated agents and investigate how LLM agents compare to observed human behavior. Our results show that LLM agents effectively reproduce search behavior and decision-making comparable to humans. Extending our experiment, we analyze LLM agents' simulated \"thoughts,\" discovering that more forward-looking thoughts correlate with favoring exploitation over exploration to maximize wealth. We show how this new approach can be leveraged in behavioral strategy research and address limitations.",
+    "filename": "Reproducing_and_Extending_Experiments_in_Behavioral_Strategy_with_Large_Language_Models.pdf"
+  },
+  {
+    "title": "Tapilot-Crossing: Benchmarking and Evolving LLMs Towards Interactive Data Analysis Agents",
+    "authors": [
+      "Jinyang Li",
+      "Nan Huo",
+      "Yan Gao",
+      "Jiayi Shi",
+      "Yingxiu Zhao",
+      "Ge Qu",
+      "Yurong Wu",
+      "Chenhao Ma",
+      "Jian-Guang Lou",
+      "Reynold Cheng"
+    ],
+    "arxiv_id": "2403.05307v1",
+    "abstract": "Interactive Data Analysis, the collaboration between humans and LLM agents, enables real-time data exploration for informed decision-making. The challenges and costs of collecting realistic interactive logs for data analysis hinder the quantitative evaluation of Large Language Model (LLM) agents in this task. To mitigate this issue, we introduce Tapilot-Crossing, a new benchmark to evaluate LLM agents on interactive data analysis. Tapilot-Crossing contains 1024 interactions, covering 4 practical scenarios: Normal, Action, Private, and Private Action. Notably, Tapilot-Crossing is constructed by an economical multi-agent environment, Decision Company, with few human efforts. We evaluate popular and advanced LLM agents in Tapilot-Crossing, which underscores the challenges of interactive data analysis. Furthermore, we propose Adaptive Interaction Reflection (AIR), a self-generated reflection strategy that guides LLM agents to learn from successful history. Experiments demonstrate that Air can evolve LLMs into effective interactive data analysis agents, achieving a relative performance improvement of up to 44.5%.",
+    "filename": "Tapilot-Crossing_Benchmarking_and_Evolving_LLMs_Towards_Interactive_Data_Analysis_Agents.pdf"
+  },
+  {
+    "title": "Hybrid Analysis for Secure MCP Tool Use in LLM Agents",
+    "authors": [
+      "Ping He",
+      "Yuexiang Xie",
+      "Yaliang Li",
+      "Shouling Ji"
+    ],
+    "arxiv_id": "2607.25297v1",
+    "abstract": "The rapid development of large language model (LLM) agents has enabled their broad adoption across diverse real-world tasks. To standardize interactions between LLM agents and external environments, Model Context Protocol (MCP) tools have emerged as a de facto standard and have been widely integrated into these systems. However, the use of MCP tools also introduces new safety risks, as LLM agents can be induced to perform malicious or unauthorized actions. Although prior work has proposed defenses for securing tool use in LLM agents, most methods rely on static analysis, i.e., inspecting prompts and generated outputs, which limits the defense effectiveness and robustness. To address these limitations, we propose MTGuard, a hybrid analysis-based defense framework designed to safeguard the use of MCP tools in LLM agents by leveraging lifecycle-aware static-dynamic co-analysis. Extensive evaluation demonstrates that MTGuard effectively mitigates multiple categories of harmful tool use across different LLM agents while maintaining performance on benign user tasks.",
+    "filename": "Hybrid_Analysis_for_Secure_MCP_Tool_Use_in_LLM_Agents.pdf"
+  },
+  {
+    "title": "The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies",
+    "authors": [
+      "Feng He",
+      "Tianqing Zhu",
+      "Dayong Ye",
+      "Bo Liu",
+      "Wanlei Zhou",
+      "Philip S. Yu"
+    ],
+    "arxiv_id": "2407.19354v2",
+    "abstract": "Inspired by the rapid development of Large Language Models (LLMs), LLM agents have evolved to perform complex tasks. LLM agents are now extensively applied across various domains, handling vast amounts of data to interact with humans and execute tasks. The widespread applications of LLM agents demonstrate their significant commercial value; however, they also expose security and privacy vulnerabilities. At the current stage, comprehensive research on the security and privacy of LLM agents is highly needed. This survey aims to provide a comprehensive overview of the newly emerged privacy and security issues faced by LLM agents. We begin by introducing the fundamental knowledge of LLM agents, followed by a categorization and analysis of the threats. We then discuss the impacts of these threats on humans, environment, and other agents. Subsequently, we review existing defensive strategies, and finally explore future trends. Additionally, the survey incorporates diverse case studies to facilitate a more accessible understanding. By highlighting these critical security and privacy issues, the survey seeks to stimulate future research towards enhancing the security and privacy of LLM agents, thereby increasing their reliability and trustworthiness in future applications.",
+    "filename": "The_Emerged_Security_and_Privacy_of_LLM_Agent_A_Survey_with_Case_Studies.pdf"
+  },
+  {
+    "title": "Can Large Language Model Agents Simulate Human Trust Behavior?",
+    "authors": [
+      "Chengxing Xie",
+      "Canyu Chen",
+      "Feiran Jia",
+      "Ziyu Ye",
+      "Shiyang Lai",
+      "Kai Shu",
+      "Jindong Gu",
+      "Adel Bibi",
+      "Ziniu Hu",
+      "David Jurgens",
+      "James Evans",
+      "Philip Torr",
+      "Bernard Ghanem",
+      "Guohao Li"
+    ],
+    "arxiv_id": "2402.04559v4",
+    "abstract": "Large Language Model (LLM) agents have been increasingly adopted as simulation tools to model humans in social science and role-playing applications. However, one fundamental question remains: can LLM agents really simulate human behavior? In this paper, we focus on one critical and elemental behavior in human interactions, trust, and investigate whether LLM agents can simulate human trust behavior. We first find that LLM agents generally exhibit trust behavior, referred to as agent trust, under the framework of Trust Games, which are widely recognized in behavioral economics. Then, we discover that GPT-4 agents manifest high behavioral alignment with humans in terms of trust behavior, indicating the feasibility of simulating human trust behavior with LLM agents. In addition, we probe the biases of agent trust and differences in agent trust towards other LLM agents and humans. We also explore the intrinsic properties of agent trust under conditions including external manipulations and advanced reasoning strategies. Our study provides new insights into the behaviors of LLM agents and the fundamental analogy between LLMs and humans beyond value alignment. We further illustrate broader implications of our discoveries for applications where trust is paramount.",
+    "filename": "Can_Large_Language_Model_Agents_Simulate_Human_Trust_Behavior.pdf"
+  },
+  {
+    "title": "How Well Can LLMs Negotiate? NegotiationArena Platform and Analysis",
+    "authors": [
+      "Federico Bianchi",
+      "Patrick John Chia",
+      "Mert Yuksekgonul",
+      "Jacopo Tagliabue",
+      "Dan Jurafsky",
+      "James Zou"
+    ],
+    "arxiv_id": "2402.05863v1",
+    "abstract": "Negotiation is the basis of social interactions; humans negotiate everything from the price of cars to how to share common resources. With rapidly growing interest in using large language models (LLMs) to act as agents on behalf of human users, such LLM agents would also need to be able to negotiate. In this paper, we study how well LLMs can negotiate with each other. We develop NegotiationArena: a flexible framework for evaluating and probing the negotiation abilities of LLM agents. We implemented three types of scenarios in NegotiationArena to assess LLM's behaviors in allocating shared resources (ultimatum games), aggregate resources (trading games) and buy/sell goods (price negotiations). Each scenario allows for multiple turns of flexible dialogues between LLM agents to allow for more complex negotiations. Interestingly, LLM agents can significantly boost their negotiation outcomes by employing certain behavioral tactics. For example, by pretending to be desolate and desperate, LLMs can improve their payoffs by 20\\% when negotiating against the standard GPT-4. We also quantify irrational negotiation behaviors exhibited by the LLM agents, many of which also appear in humans. Together, \\NegotiationArena offers a new environment to investigate LLM interactions, enabling new insights into LLM's theory of mind, irrationality, and reasoning abilities.",
+    "filename": "How_Well_Can_LLMs_Negotiate_NegotiationArena_Platform_and_Analysis.pdf"
+  },
+  {
+    "title": "When LLMs Go Online: The Emerging Threat of Web-Enabled LLMs",
+    "authors": [
+      "Hanna Kim",
+      "Minkyoo Song",
+      "Seung Ho Na",
+      "Seungwon Shin",
+      "Kimin Lee"
+    ],
+    "arxiv_id": "2410.14569v3",
+    "abstract": "Recent advancements in Large Language Models (LLMs) have established them as agentic systems capable of planning and interacting with various tools. These LLM agents are often paired with web-based tools, enabling access to diverse sources and real-time information. Although these advancements offer significant benefits across various applications, they also increase the risk of malicious use, particularly in cyberattacks involving personal information. In this work, we investigate the risks associated with misuse of LLM agents in cyberattacks involving personal data. Specifically, we aim to understand: 1) how potent LLM agents can be when directed to conduct cyberattacks, 2) how cyberattacks are enhanced by web-based tools, and 3) how affordable and easy it becomes to launch cyberattacks using LLM agents. We examine three attack scenarios: the collection of Personally Identifiable Information (PII), the generation of impersonation posts, and the creation of spear-phishing emails. Our experiments reveal the effectiveness of LLM agents in these attacks: LLM agents achieved a precision of up to 95.9% in collecting PII, generated impersonation posts where 93.9% of them were deemed authentic, and boosted click rate of phishing links in spear phishing emails by 46.67%. Additionally, our findings underscore the limitations of existing safeguards in contemporary commercial LLMs, emphasizing the urgent need for robust security measures to prevent the misuse of LLM agents.",
+    "filename": "When_LLMs_Go_Online_The_Emerging_Threat_of_Web-Enabled_LLMs.pdf"
+  },
+  {
+    "title": "Empirical Comparison of Agent Communication Protocols for Task Orchestration",
+    "authors": [
+      "Ivan Dobrovolskyi"
+    ],
+    "arxiv_id": "2603.22823v3",
+    "abstract": "Context. The problem of comparative evaluation of communication protocols for task orchestration by large language model (LLM) agents is considered. The object of study is the process of interaction between LLM agents and external tools, as well as between autonomous LLM agents, during task orchestration. Objective. The goal of this work is to develop a systematic pilot benchmark comparing tool integration, multi-agent dele-gation, and hybrid architectures for standardized queries at three levels of complexity, and to quantify the advantages and disadvantages in terms of response time, context window consumption, cost, error recovery, and implementation complexity.",
+    "filename": "Empirical_Comparison_of_Agent_Communication_Protocols_for_Task_Orchestration.pdf"
+  },
+  {
+    "title": "Prompt Flow Integrity to Prevent Privilege Escalation in LLM Agents",
+    "authors": [
+      "Juhee Kim",
+      "Woohyuk Choi",
+      "Byoungyoung Lee"
+    ],
+    "arxiv_id": "2503.15547v2",
+    "abstract": "Large Language Models (LLMs) are combined with tools to create powerful LLM agents that provide a wide range of services. Unlike traditional software, LLM agent's behavior is determined at runtime by natural language prompts from either user or tool's data. This flexibility enables a new computing paradigm with unlimited capabilities and programmability, but also introduces new security risks, vulnerable to privilege escalation attacks. Moreover, user prompts are prone to be interpreted in an insecure way by LLM agents, creating non-deterministic behaviors that can be exploited by attackers. To address these security risks, we propose Prompt Flow Integrity (PFI), a system security-oriented solution to prevent privilege escalation in LLM agents. Analyzing the architectural characteristics of LLM agents, PFI features three mitigation techniques -- i.e., agent isolation, secure untrusted data processing, and privilege escalation guardrails. Our evaluation result shows that PFI effectively mitigates privilege escalation attacks while successfully preserving the utility of LLM agents.",
+    "filename": "Prompt_Flow_Integrity_to_Prevent_Privilege_Escalation_in_LLM_Agents.pdf"
+  },
+  {
+    "title": "Plan-Then-Execute: An Empirical Study of User Trust and Team Performance When Using LLM Agents As A Daily Assistant",
+    "authors": [
+      "Gaole He",
+      "Gianluca Demartini",
+      "Ujwal Gadiraju"
+    ],
+    "arxiv_id": "2502.01390v1",
+    "abstract": "Since the explosion in popularity of ChatGPT, large language models (LLMs) have continued to impact our everyday lives. Equipped with external tools that are designed for a specific purpose (e.g., for flight booking or an alarm clock), LLM agents exercise an increasing capability to assist humans in their daily work. Although LLM agents have shown a promising blueprint as daily assistants, there is a limited understanding of how they can provide daily assistance based on planning and sequential decision making capabilities. We draw inspiration from recent work that has highlighted the value of 'LLM-modulo' setups in conjunction with humans-in-the-loop for planning tasks. We conducted an empirical study (N = 248) of LLM agents as daily assistants in six commonly occurring tasks with different levels of risk typically associated with them (e.g., flight ticket booking and credit card payments). To ensure user agency and control over the LLM agent, we adopted LLM agents in a plan-then-execute manner, wherein the agents conducted step-wise planning and step-by-step execution in a simulation environment. We analyzed how user involvement at each stage affects their trust and collaborative team performance. Our findings demonstrate that LLM agents can be a double-edged sword -- (1) they can work well when a high-quality plan and necessary user involvement in execution are available, and (2) users can easily mistrust the LLM agents with plans that seem plausible. We synthesized key insights for using LLM agents as daily assistants to calibrate user trust and achieve better overall task outcomes. Our work has important implications for the future design of daily assistants and human-AI collaboration with LLM agents.",
+    "filename": "Plan-Then-Execute_An_Empirical_Study_of_User_Trust_and_Team_Performance_When_Using_LLM_Agents_As_A_Daily_Assistant.pdf"
+  },
+  {
+    "title": "Agentic Evaluation of Copyright Law Compliance",
+    "authors": [
+      "Zheng Hui",
+      "Doni Bloomfield",
+      "Noam Kolt"
+    ],
+    "arxiv_id": "2607.21799v2",
+    "abstract": "Large language model (LLM) agents increasingly perform commercial tasks that involve retrieving external content, such as images, and, where appropriate, reproducing that content. LLM agents should comply with the law, including copyright law. Presently, however, we lack adequate frameworks to assess whether they do so in practice. To that end, we introduce Copyright-Bench, a benchmark designed to evaluate LLM agents' compliance with copyright law. Copyright-Bench comprises realistic commercial tasks---website development, merchandise design, and pitch deck production---that involve agents selecting between public-domain content, the use of which is legal, and copyrighted content, the use of which is infringing in this setting. The evaluation introduces prompt variations that simulate different user preferences, as well as time pressure. Comparing state-of-the-art LLM agents against a human baseline, we find that: (1) agents select copyrighted works despite the availability of public-domain alternatives; and (2) for open-weight models, violation rates increase in response to certain user preferences and simulated time pressure.",
+    "filename": "Agentic_Evaluation_of_Copyright_Law_Compliance.pdf"
+  },
+  {
+    "title": "Collaborative Spatial Learning with Multi-LLM Agents in Networked Social Experiments",
+    "authors": [
+      "Hao He",
+      "Chris J. Kuhlman",
+      "Xinwei Deng"
+    ],
+    "arxiv_id": "2607.14574v1",
+    "abstract": "Collective problem solving often requires that group members consider the tradeoff between exploitation of known solutions and exploration for new ones, where information of known solutions can be disseminated among individual members through communication networks. The Mason--Watts experiment (PNAS 2012) showed that human groups in shorter-path networks outperform those in longer-path networks on a two-dimensional search task. In this work, we focus on the investigation of such network-efficiency effects in the setting of a group of large language model (LLM) agents. Specifically, we consider groups of sixteen LLM agents playing the Mason--Watts experiment on the eight Mason--Watts network topologies. Moreover, we develop mechanistic Bayesian optimization agents such that the performance of LLM agents can be compared with both the mechanistic agents and the human experimental data. Our computational experiments indicate that the LLM agents show a significant network-efficiency effect when instructed to randomize their first-round choices, but not under the default initialization. In this experiment, adding a one-sentence first-round randomization instruction improves collective payoff by more than three times the estimated payoff difference across the eight network topologies. Also, the Bayesian optimization agents obtain higher payoffs than the evaluated LLM agents on this spatial search task. We further compare the agents' exploration--exploitation behavior, copying, and spatial diversity.",
+    "filename": "Collaborative_Spatial_Learning_with_Multi-LLM_Agents_in_Networked_Social_Experiments.pdf"
+  },
+  {
+    "title": "Fair Agents: Balancing Multistakeholder Alignment in Multi-Agent Personalization Systems",
+    "authors": [
+      "Andrea Forster",
+      "Peter Müllner",
+      "Denis Helic",
+      "Elisabeth Lex",
+      "Dominik Kowald"
+    ],
+    "arxiv_id": "2605.02379v1",
+    "abstract": "LLM agents are increasingly used for personalization due to their ability to communicate directly with users in natural language, integrate external knowledge bases, and negotiate with other (possibly human) agents. Especially in multistakeholder AI systems with multiple distinct objectives, LLM agents are used to independently optimize for each stakeholder's goals. Here, stakeholder alignment is essential to identify and map these goals to provide LLM agents with quantifiable objectives. Plus, the way in which the outputs of the LLM agents are aggregated is fundamental to ensuring fair outcomes for all agents and, therefore, stakeholders. In this work, we identify open research challenges and propose a conceptual framework for designing fair multi-agent multistakeholder personalization systems that balance competing stakeholder objectives. Our framework integrates (i) methods to align stakeholder objectives and LLM agents, (ii) aggregation strategies, e.g., based on social choice theory, to form fair collective decisions, and (iii) stakeholder-centric evaluation procedures for both individual and collective agent behavior. We showcase our framework through a tourism use case and discuss possible applications in other domains, such as education and healthcare. Finally, we discuss domain-specific fairness tensions and review datasets for evaluating multistakeholder fairness and multi-agent personalization systems.",
+    "filename": "Fair_Agents_Balancing_Multistakeholder_Alignment_in_Multi-Agent_Personalization_Systems.pdf"
+  },
+  {
+    "title": "MIRAI: Evaluating LLM Agents for Event Forecasting",
+    "authors": [
+      "Chenchen Ye",
+      "Ziniu Hu",
+      "Yihe Deng",
+      "Zijie Huang",
+      "Mingyu Derek Ma",
+      "Yanqiao Zhu",
+      "Wei Wang"
+    ],
+    "arxiv_id": "2407.01231v1",
+    "abstract": "Recent advancements in Large Language Models (LLMs) have empowered LLM agents to autonomously collect world information, over which to conduct reasoning to solve complex problems. Given this capability, increasing interests have been put into employing LLM agents for predicting international events, which can influence decision-making and shape policy development on an international scale. Despite such a growing interest, there is a lack of a rigorous benchmark of LLM agents' forecasting capability and reliability. To address this gap, we introduce MIRAI, a novel benchmark designed to systematically evaluate LLM agents as temporal forecasters in the context of international events. Our benchmark features an agentic environment with tools for accessing an extensive database of historical, structured events and textual news articles. We refine the GDELT event database with careful cleaning and parsing to curate a series of relational prediction tasks with varying forecasting horizons, assessing LLM agents' abilities from short-term to long-term forecasting. We further implement APIs to enable LLM agents to utilize different tools via a code-based interface. In summary, MIRAI comprehensively evaluates the agents' capabilities in three dimensions: 1) autonomously source and integrate critical information from large global databases; 2) write codes using domain-specific APIs and libraries for tool-use; and 3) jointly reason over historical knowledge from diverse formats and time to accurately predict future events. Through comprehensive benchmarking, we aim to establish a reliable framework for assessing the capabilities of LLM agents in forecasting international events, thereby contributing to the development of more accurate and trustworthy models for international relation analysis.",
+    "filename": "MIRAI_Evaluating_LLM_Agents_for_Event_Forecasting.pdf"
+  },
+  {
+    "title": "Emergent Social Dynamics of LLM Agents in the El Farol Bar Problem",
+    "authors": [
+      "Ryosuke Takata",
+      "Atsushi Masumori",
+      "Takashi Ikegami"
+    ],
+    "arxiv_id": "2509.04537v3",
+    "abstract": "We investigate the emergent social dynamics of Large Language Model (LLM) agents in a spatially extended El Farol Bar problem, observing how they autonomously navigate this classic social dilemma. As a result, the LLM agents generated a spontaneous motivation to go to the bar and changed their decision making by becoming a collective. We also observed that the LLM agents did not solve the problem completely, but rather behaved more like humans. These findings reveal a complex interplay between external incentives (prompt-specified constraints such as the 60% threshold) and internal incentives (culturally-encoded social preferences derived from pre-training), demonstrating that LLM agents naturally balance formal game-theoretic rationality with social motivations that characterize human behavior. These findings suggest that a new model of group decision making, which could not be handled in the previous game-theoretic problem setting, can be realized by LLM agents.",
+    "filename": "Emergent_Social_Dynamics_of_LLM_Agents_in_the_El_Farol_Bar_Problem.pdf"
+  },
+  {
+    "title": "Assessing the Performance of Human-Capable LLMs -- Are LLMs Coming for Your Job?",
+    "authors": [
+      "John Mavi",
+      "Nathan Summers",
+      "Sergio Coronado"
+    ],
+    "arxiv_id": "2410.16285v1",
+    "abstract": "The current paper presents the development and validation of SelfScore, a novel benchmark designed to assess the performance of automated Large Language Model (LLM) agents on help desk and professional consultation tasks. Given the increasing integration of AI in industries, particularly within customer service, SelfScore fills a crucial gap by enabling the comparison of automated agents and human workers. The benchmark evaluates agents on problem complexity and response helpfulness, ensuring transparency and simplicity in its scoring system. The study also develops automated LLM agents to assess SelfScore and explores the benefits of Retrieval-Augmented Generation (RAG) for domain-specific tasks, demonstrating that automated LLM agents incorporating RAG outperform those without. All automated LLM agents were observed to perform better than the human control group. Given these results, the study raises concerns about the potential displacement of human workers, especially in areas where AI technologies excel. Ultimately, SelfScore provides a foundational tool for understanding the impact of AI in help desk environments while advocating for ethical considerations in the ongoing transition towards automation.",
+    "filename": "Assessing_the_Performance_of_Human-Capable_LLMs_--_Are_LLMs_Coming_for_Your_Job.pdf"
+  },
+  {
+    "title": "ProjectEval: A Benchmark for Programming Agents Automated Evaluation on Project-Level Code Generation",
+    "authors": [
+      "Kaiyuan Liu",
+      "Youcheng Pan",
+      "Yang Xiang",
+      "Daojing He",
+      "Jing Li",
+      "Yexing Du",
+      "Tianrun Gao"
+    ],
+    "arxiv_id": "2503.07010v2",
+    "abstract": "Recently, LLM agents have made rapid progress in improving their programming capabilities. However, existing benchmarks lack the ability to automatically evaluate from users' perspective, and also lack the explainability of the results of LLM agents' code generation capabilities. Thus, we introduce ProjectEval, a new benchmark for LLM agents project-level code generation's automated evaluation by simulating user interaction. ProjectEval is constructed by LLM with human reviewing. It has three different level inputs of natural languages or code skeletons. ProjectEval can evaluate the generated projects by user interaction simulation for execution, and by code similarity through existing objective indicators. Through ProjectEval, we find that systematic engineering project code, overall understanding of the project and comprehensive analysis capability are the keys for LLM agents to achieve practical projects. Our findings and benchmark provide valuable insights for developing more effective programming agents that can be deployed in future real-world production.",
+    "filename": "ProjectEval_A_Benchmark_for_Programming_Agents_Automated_Evaluation_on_Project-Level_Code_Generation.pdf"
+  },
+  {
+    "title": "ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases",
+    "authors": [
+      "Qiaoyu Tang",
+      "Ziliang Deng",
+      "Hongyu Lin",
+      "Xianpei Han",
+      "Qiao Liang",
+      "Boxi Cao",
+      "Le Sun"
+    ],
+    "arxiv_id": "2306.05301v2",
+    "abstract": "Enabling large language models to utilize real-world tools effectively is crucial for achieving embodied intelligence. Existing approaches to tool learning have either primarily relied on extremely large language models, such as GPT-4, to attain generalized tool-use abilities in a zero-shot manner, or utilized supervised learning to train limited scopes of tools on compact models. However, it remains uncertain whether smaller language models can achieve generalized tool-use abilities without tool-specific training. To address this question, this paper introduces ToolAlpaca, a novel framework designed to automatically generate a diverse tool-use corpus and learn generalized tool-use abilities on compact language models with minimal human intervention. Specifically, ToolAlpaca first automatically creates a highly diversified tool-use corpus by building a multi-agent simulation environment. The corpus contains 3938 tool-use instances from more than 400 real-world tool APIs spanning 50 distinct categories. Subsequently, the constructed corpus is employed to fine-tune compact language models, resulting in two models, namely ToolAlpaca-7B and ToolAlpaca-13B, respectively. Finally, we evaluate the ability of these models to utilize previously unseen tools without specific training. Experimental results demonstrate that ToolAlpaca achieves effective generalized tool-use capabilities comparable to those of extremely large language models like GPT-3.5, demonstrating that learning generalized tool-use ability is feasible for compact language models.",
+    "filename": "ToolAlpaca_Generalized_Tool_Learning_for_Language_Models_with_3000_Simulated_Cases.pdf"
+  },
+  {
+    "title": "Looped Language Models Improve Compositional Tool Calling",
+    "authors": [
+      "Andrei Cristian Popescu",
+      "Haitz Sáez de Ocáriz Borde",
+      "Pietro Liò"
+    ],
+    "arxiv_id": "2608.18171v1",
+    "abstract": "Looped language models have shown promising results on reasoning benchmarks, yet their potential for agentic tool use remains largely unexplored. We study this question in compositional tool-calling settings, where models must coordinate multiple API calls, maintain intermediate state, and preserve dependencies across tool interactions. We evaluate native and retrofitted looped language models on API-Bank, BFCL, and NESTful, comparing looped and non-looped models trained under matched supervised fine-tuning recipes and varying recurrent depth at inference time. In controlled experiments, recurrent computation generally benefits compositional and dependency-aware tool use, while providing smaller and more model-dependent gains on isolated API invocation. Accuracy on multi-step tool use generally increases with recurrent depth; adaptive inference, however, achieves a more favorable compute-performance trade-off by allocating additional computation only when needed. Our results suggest that looped language models are a promising architecture for agentic systems that require reliable planning, coordination, and execution of compositional tool use workflows.",
+    "filename": "Looped_Language_Models_Improve_Compositional_Tool_Calling.pdf"
+  },
+  {
+    "title": "FunctionChat-Bench: Comprehensive Evaluation of Language Models' Generative Capabilities in Korean Tool-use Dialogs",
+    "authors": [
+      "Shinbok Lee",
+      "Gaeun Seo",
+      "Daniel Lee",
+      "Byeongil Ko",
+      "Sunghee Jung",
+      "Myeongcheol Shin"
+    ],
+    "arxiv_id": "2411.14054v1",
+    "abstract": "This study investigates language models' generative capabilities in tool-use dialogs. We categorize the models' outputs in tool-use dialogs into four distinct types: Tool Call, Answer Completion, Slot Question, and Relevance Detection, which serve as aspects for evaluation. We introduce FunctionChat-Bench, comprising 700 evaluation items and automated assessment programs. Using this benchmark, we evaluate several language models that support function calling. Our findings indicate that while language models may exhibit high accuracy in single-turn Tool Call scenarios, this does not necessarily translate to superior generative performance in multi-turn environments. We argue that the capabilities required for function calling extend beyond generating tool call messages; they must also effectively generate conversational messages that engage the user.",
+    "filename": "FunctionChat-Bench_Comprehensive_Evaluation_of_Language_Models'_Generative_Capabilities_in_Korean_Tool-use_Dialogs.pdf"
+  },
+  {
+    "title": "MENTOR: Reinforcement Learning via Flexible Teacher-Optimized Rewards for Tool-Use Distillation",
+    "authors": [
+      "ChangSu Choi",
+      "Hoyun Song",
+      "Dongyeon Kim",
+      "Minkyung Cho",
+      "WooHyeon Jung",
+      "Sunjin Park",
+      "NohHyeob Bae",
+      "Seona Yu",
+      "KyungTae Lim"
+    ],
+    "arxiv_id": "2510.18383v4",
+    "abstract": "Distilling the tool-use capabilities of large language models (LLMs) into small language models (SLMs) is essential for their practical application. The predominant approach, supervised fine-tuning (SFT), is an off-policy distillation method that suffers from poor out-of-domain (OOD) generalization because it rigidly aligns with static teacher trajectories. While reinforcement learning (RL) offers an alternative, the capacity limitations of SLMs pose a severe dilemma: sparse outcome rewards provide insufficient guidance, whereas strict trajectory matching imposes overly restrictive constraints. To bridge this capacity-driven gap, we propose MENTOR, an on-policy distillation framework that introduces a flexible yet process-aware reward structure. Instead of enforcing rigid replication, MENTOR uses the teacher's reference to guide tool-use behavior, balancing behavioral alignment with downstream performance. Extensive experiments on controlled executable-tool benchmarks demonstrate that MENTOR improves OOD tool-use performance compared to SFT and strict RL baselines. Our findings suggest that within verifiable tool-use environments, flexible tool-use alignment offers a more effective approach than strict trajectory replication for developing adaptable small models.",
+    "filename": "MENTOR_Reinforcement_Learning_via_Flexible_Teacher-Optimized_Rewards_for_Tool-Use_Distillation.pdf"
+  },
+  {
+    "title": "Advancing SLM Tool-Use Capability using Reinforcement Learning",
+    "authors": [
+      "Dhruvi Paprunia",
+      "Vansh Kharidia",
+      "Pankti Doshi"
+    ],
+    "arxiv_id": "2509.04518v2",
+    "abstract": "In an era where tool-augmented AI agents are becoming increasingly vital, our findings highlight the ability of Group Relative Policy Optimization (GRPO) to empower SLMs, which are traditionally constrained in tool use. The ability to use tools effectively has become a defining feature of Large Language Models (LLMs), allowing them to access external data and internal resources. As AI agents grow more sophisticated, tool-use capabilities have become indispensable. While LLMs have made significant progress in this area, Small Language Models (SLMs) still face challenges in accurately integrating tool use, especially in resource-constrained settings.\n  This study investigates how Reinforcement Learning, specifically Group Relative Policy Optimization (GRPO), can enhance the tool-use accuracy of SLMs. By designing a well-defined reward system that reinforces structured JSON output, correct tool selection, and precise parameter usage, we demonstrate that GRPO enables SLMs to achieve significant improvements in tool-use capabilities (function calling/JSON output). Our approach provides a computationally efficient training method that enhances SLMs practical deployment in real-world AI applications.",
+    "filename": "Advancing_SLM_Tool-Use_Capability_using_Reinforcement_Learning.pdf"
+  },
+  {
+    "title": "GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolution",
+    "authors": [
+      "Yining Lu",
+      "Haoping Yu",
+      "Daniel Khashabi"
+    ],
+    "arxiv_id": "2307.08775v2",
+    "abstract": "Augmenting large language models (LLM) to use external tools enhances their performance across a variety of tasks. However, prior works over-rely on task-specific demonstration of tool use that limits their generalizability and computational cost due to making many calls to large-scale LLMs. We introduce GEAR, a computationally efficient query-tool grounding algorithm that is generalizable to various tasks that require tool use while not relying on task-specific demonstrations. GEAR achieves better efficiency by delegating tool grounding and execution to small language models (SLM) and LLM, respectively; while leveraging semantic and pattern-based evaluation at both question and answer levels for generalizable tool grounding. We evaluate GEAR on 14 datasets across 6 downstream tasks, demonstrating its strong generalizability to novel tasks, tools and different SLMs. Despite offering more efficiency, GEAR achieves higher precision in tool grounding compared to prior strategies using LLM prompting, thus improving downstream accuracy at a reduced computational cost. For example, we demonstrate that GEAR-augmented GPT-J and GPT-3 outperform counterpart tool-augmented baselines because of better tool use.",
+    "filename": "GEAR_Augmenting_Language_Models_with_Generalizable_and_Efficient_Tool_Resolution.pdf"
+  },
+  {
+    "title": "TAPS: Tool-Augmented Personalisation via Structured Tagging",
+    "authors": [
+      "Ekaterina Taktasheva",
+      "Jeff Dalton"
+    ],
+    "arxiv_id": "2506.20409v3",
+    "abstract": "Recent advancements in tool-augmented large language models have enabled them to interact with external tools, enhancing their ability to perform complex user tasks. However, existing approaches overlook the role of personalisation in guiding tool use. This work investigates how user preferences can be effectively integrated into goal-oriented dialogue agents. Through extensive analysis, we identify key weaknesses in the ability of LLMs to personalise tool use. To this end, we introduce TAPS, a novel solution that enhances personalised tool use by leveraging a structured tagging tool and an uncertainty-based tool detector. TAPS significantly improves the ability of LLMs to incorporate user preferences, achieving the new state-of-the-art for open source models on the NLSI task.",
+    "filename": "TAPS_Tool-Augmented_Personalisation_via_Structured_Tagging.pdf"
+  },
+  {
+    "title": "TRAJECT-Bench:A Trajectory-Aware Benchmark for Evaluating Agentic Tool Use",
+    "authors": [
+      "Pengfei He",
+      "Zhenwei Dai",
+      "Bing He",
+      "Hui Liu",
+      "Xianfeng Tang",
+      "Hanqing Lu",
+      "Juanhui Li",
+      "Jiayuan Ding",
+      "Subhabrata Mukherjee",
+      "Suhang Wang",
+      "Yue Xing",
+      "Jiliang Tang",
+      "Benoit Dumoulin"
+    ],
+    "arxiv_id": "2510.04550v2",
+    "abstract": "Large language model (LLM)-based agents increasingly rely on tool use to complete real-world tasks. While existing works evaluate the LLMs' tool use capability, they largely focus on the final answers yet overlook the detailed tool usage trajectory, i.e., whether tools are selected, parameterized, and ordered correctly. We introduce TRAJECT-Bench, a trajectory-aware benchmark to comprehensively evaluate LLMs' tool use capability through diverse tasks with fine-grained evaluation metrics. TRAJECT-Bench pairs high-fidelity, executable tools across practical domains with tasks grounded in production-style APIs, and synthesizes trajectories that vary in breadth (parallel calls) and depth (interdependent chains). Besides final accuracy, TRAJECT-Bench also reports trajectory-level diagnostics, including tool selection and argument correctness, and dependency/order satisfaction. Analyses reveal failure modes such as similar tool confusion and parameter-blind selection, and scaling behavior with tool diversity and trajectory length where the bottleneck of transiting from short to mid-length trajectories is revealed, offering actionable guidance for LLMs' tool use.",
+    "filename": "TRAJECT-BenchA_Trajectory-Aware_Benchmark_for_Evaluating_Agentic_Tool_Use.pdf"
+  },
+  {
+    "title": "MTU-Bench: A Multi-granularity Tool-Use Benchmark for Large Language Models",
+    "authors": [
+      "Pei Wang",
+      "Yanan Wu",
+      "Zekun Wang",
+      "Jiaheng Liu",
+      "Xiaoshuai Song",
+      "Zhongyuan Peng",
+      "Ken Deng",
+      "Chenchen Zhang",
+      "Jiakai Wang",
+      "Junran Peng",
+      "Ge Zhang",
+      "Hangyu Guo",
+      "Zhaoxiang Zhang",
+      "Wenbo Su",
+      "Bo Zheng"
+    ],
+    "arxiv_id": "2410.11710v1",
+    "abstract": "Large Language Models (LLMs) have displayed massive improvements in reasoning and decision-making skills and can hold natural conversations with users. Recently, many tool-use benchmark datasets have been proposed. However, existing datasets have the following limitations: (1). Insufficient evaluation scenarios (e.g., only cover limited tool-use scenes). (2). Extensive evaluation costs (e.g., GPT API costs). To address these limitations, in this work, we propose a multi-granularity tool-use benchmark for large language models called MTU-Bench. For the \"multi-granularity\" property, our MTU-Bench covers five tool usage scenes (i.e., single-turn and single-tool, single-turn and multiple-tool, multiple-turn and single-tool, multiple-turn and multiple-tool, and out-of-distribution tasks). Besides, all evaluation metrics of our MTU-Bench are based on the prediction results and the ground truth without using any GPT or human evaluation metrics. Moreover, our MTU-Bench is collected by transforming existing high-quality datasets to simulate real-world tool usage scenarios, and we also propose an instruction dataset called MTU-Instruct data to enhance the tool-use abilities of existing LLMs. Comprehensive experimental results demonstrate the effectiveness of our MTU-Bench. Code and data will be released at https: //github.com/MTU-Bench-Team/MTU-Bench.git.",
+    "filename": "MTU-Bench_A_Multi-granularity_Tool-Use_Benchmark_for_Large_Language_Models.pdf"
+  },
+  {
+    "title": "Benchmarking LLM Tool-Use in the Wild",
+    "authors": [
+      "Peijie Yu",
+      "Wei Liu",
+      "Yifan Yang",
+      "Jinjian Li",
+      "Zelong Zhang",
+      "Xiao Feng",
+      "Feng Zhang"
+    ],
+    "arxiv_id": "2604.06185v1",
+    "abstract": "Fulfilling user needs through Large Language Model multi-turn, multi-step tool-use is rarely a straightforward process. Real user interactions are inherently wild, being intricate, messy, and flexible. We identify three key challenges from user behaviour: compositional tasks that demand efficient orchestration of tool-call topologies, implicit intent spread across dialogue turns that require contextual inference, and instruction transition, which mixes task queries, clarifications, and casual conversation, forcing LLMs to adjust their policies on the fly. Existing benchmarks overlook these behaviors, making the apparent progress of LLMs on tool-use spurious. To address this, we introduce WildToolBench, an LLM tool-use benchmark grounded in real-world user behavior patterns. Comprehensive evaluations of 57 LLMs reveal that no model achieves an accuracy of more than 15%, indicating a substantial gap in the robustness of LLMs' agentic ability. Controlled experiments and in-depth analyses further indicate that the real challenge for LLM tool-use lies not in artificially complex tasks, but in the wild nature of user behavior, emphasizing the need to reconsider the interactions among LLMs, users, and tools.",
+    "filename": "Benchmarking_LLM_Tool-Use_in_the_Wild.pdf"
+  },
+  {
+    "title": "ToolFailBench: Diagnosing Tool-Use Failures in LLM Agents",
+    "authors": [
+      "Harsh Soni"
+    ],
+    "arxiv_id": "2607.04686v1",
+    "abstract": "Tool calling is central to modern language model agents, but aggregate benchmark scores often hide where tool use fails. A model that never calls a needed tool and a model that calls the tool but ignores the result can look similar under final task accuracy. We introduce ToolFailBench, a diagnostic benchmark for measuring tool-use failures across 1,000 tasks in finance, medicine, law, cybersecurity, and real estate. Tool-required tasks return values the model wouldn't guess, forcing it to trust the tool while control tasks attach the same tools but should be answered directly. We label each trace with Tool-Skip, Result-Ignore, Output-Fabrication, and Unnecessary-Tool-Use, using a rule classifier and two LLM judges aggregated by majority vote. Across 19 headline models, the best reaches 86.33% Clean Tool-Use Rate, showing that faithful tool use is not saturated. More importantly, models with similar aggregate scores fail in different ways: most stay disciplined on no-tool controls, while Llama-3.1 models show an Always-Call pattern, and at the same parameter scale Llama-3.1-70B and Qwen2.5-72B differ by 89 percentage points on control-task accuracy. Tool-use evaluation should measure not only whether agents call tools, but whether they use tool outputs correctly and avoid tools when none is needed.",
+    "filename": "ToolFailBench_Diagnosing_Tool-Use_Failures_in_LLM_Agents.pdf"
+  },
+  {
+    "title": "What Does Vision Tool-Use Reinforcement Learning Really Learn? Disentangling Tool-Induced and Intrinsic Effects for Crop-and-Zoom",
+    "authors": [
+      "Yan Ma",
+      "Weiyu Zhang",
+      "Tianle Li",
+      "Linge Du",
+      "Xuyang Shen",
+      "Pengfei Liu"
+    ],
+    "arxiv_id": "2602.01334v2",
+    "abstract": "Vision tool-use reinforcement learning (RL) can equip vision language models with visual operators such as crop-and-zoom and achieves strong performance gains, yet it remains unclear whether these gains are driven by improvements in tool use or evolving intrinsic capabilities. We introduce MED (Measure--Explain--Diagnose), a coarse-to-fine framework that disentangles intrinsic capability changes from tool-induced effects, decomposes the tool-induced performance difference into gain and harm terms, and probes the mechanisms driving their evolution. Across checkpoint-level analyses in the crop-and-zoom setting on two VLMs with different tool priors and six benchmarks, we find that improvements are dominated by intrinsic learning, while tool-use RL mainly reduces tool-induced harm (e.g., fewer call-induced errors and weaker tool schema interference) and yields limited progress in tool-based correction of intrinsic failures. Overall, in the crop-and-zoom setting studied here, current vision tool-use RL learns to coexist safely with tools rather than master them.",
+    "filename": "What_Does_Vision_Tool-Use_Reinforcement_Learning_Really_Learn_Disentangling_Tool-Induced_and_Intrinsic_Effects_for_Crop-.pdf"
+  },
+  {
+    "title": "AutoTIR: Autonomous Tools Integrated Reasoning via Reinforcement Learning",
+    "authors": [
+      "Yifan Wei",
+      "Xiaoyan Yu",
+      "Yixuan Weng",
+      "Tengfei Pan",
+      "Angsheng Li",
+      "Li Du"
+    ],
+    "arxiv_id": "2507.21836v1",
+    "abstract": "Large Language Models (LLMs), when enhanced through reasoning-oriented post-training, evolve into powerful Large Reasoning Models (LRMs). Tool-Integrated Reasoning (TIR) further extends their capabilities by incorporating external tools, but existing methods often rely on rigid, predefined tool-use patterns that risk degrading core language competence. Inspired by the human ability to adaptively select tools, we introduce AutoTIR, a reinforcement learning framework that enables LLMs to autonomously decide whether and which tool to invoke during the reasoning process, rather than following static tool-use strategies. AutoTIR leverages a hybrid reward mechanism that jointly optimizes for task-specific answer correctness, structured output adherence, and penalization of incorrect tool usage, thereby encouraging both precise reasoning and efficient tool integration. Extensive evaluations across diverse knowledge-intensive, mathematical, and general language modeling tasks demonstrate that AutoTIR achieves superior overall performance, significantly outperforming baselines and exhibits superior generalization in tool-use behavior. These results highlight the promise of reinforcement learning in building truly generalizable and scalable TIR capabilities in LLMs. The code and data are available at https://github.com/weiyifan1023/AutoTIR.",
+    "filename": "AutoTIR_Autonomous_Tools_Integrated_Reasoning_via_Reinforcement_Learning.pdf"
+  },
+  {
+    "title": "ToolHop: A Query-Driven Benchmark for Evaluating Large Language Models in Multi-Hop Tool Use",
+    "authors": [
+      "Junjie Ye",
+      "Zhengyin Du",
+      "Xuesong Yao",
+      "Weijian Lin",
+      "Yufei Xu",
+      "Zehui Chen",
+      "Zaiyuan Wang",
+      "Sining Zhu",
+      "Zhiheng Xi",
+      "Siyu Yuan",
+      "Tao Gui",
+      "Qi Zhang",
+      "Xuanjing Huang",
+      "Jiecao Chen"
+    ],
+    "arxiv_id": "2501.02506v4",
+    "abstract": "Effective evaluation of multi-hop tool use is critical for analyzing the understanding, reasoning, and function-calling capabilities of large language models (LLMs). However, progress has been hindered by a lack of reliable evaluation datasets. To address this, we present ToolHop, a dataset comprising 995 user queries and 3,912 associated tools, specifically designed for rigorous evaluation of multi-hop tool use. ToolHop ensures diverse queries, meaningful interdependencies, locally executable tools, detailed feedback, and verifiable answers through a novel query-driven data construction approach that includes tool creation, document refinement, and code generation. We evaluate 14 LLMs across five model families (i.e., LLaMA3.1, Qwen2.5, Gemini1.5, Claude3.5, and GPT), uncovering significant challenges in handling multi-hop tool-use scenarios. The leading model, GPT-4o, achieves an accuracy of 49.04%, underscoring substantial room for improvement. Further analysis reveals variations in tool-use strategies for various families, offering actionable insights to guide the development of more effective approaches. Code and data can be found in https://huggingface.co/datasets/bytedance-research/ToolHop.",
+    "filename": "ToolHop_A_Query-Driven_Benchmark_for_Evaluating_Large_Language_Models_in_Multi-Hop_Tool_Use.pdf"
+  },
+  {
+    "title": "IAPO: Input Attribution-Aware Policy Optimization for Tool Use in Small Multimodal Agents",
+    "authors": [
+      "Yifan Yang",
+      "Zhen Zhang",
+      "Jiayi Tian",
+      "Liyan Tan",
+      "Zheng Zhang"
+    ],
+    "arxiv_id": "2606.11652v1",
+    "abstract": "This paper investigates reinforcement learning (RL) methods for improving tool-calling capabilities in multimodal small language model (SLM) agents. While existing works have explored various reward designs to improve agentic tool-calling ability, these approaches face inherent limitations for SLM training, especially under multimodal scenarios. First, many existing methods evaluate tool use correctness through exact matching against certain ground-truth or predefined formats. However, this assumption is often unsuitable for multimodal tasks, where multiple tool use paths may be valid and annotated tool trajectories are typically unavailable. Second, such sparse and brittle binary rewards provide little guidance on how to improve the underlying decision process, making them particularly difficult for multimodal SLM to learn from. To address these issues, we propose Input Attribution-Aware Policy Optimization (IAPO), an RL algorithm for improving tool use in multimodal SLM by aligning the model's attribution across input components with that of a stronger teacher. Experiments on Qwen2.5-VL-3B show that the proposed method improves visual question answering accuracy by an average of 3% across six test sets compared with existing visual tool use work, by helping the model attend to the most relevant input evidence.",
+    "filename": "IAPO_Input_Attribution-Aware_Policy_Optimization_for_Tool_Use_in_Small_Multimodal_Agents.pdf"
+  },
+  {
+    "title": "VideoThinker: Building Agentic VideoLLMs with LLM-Guided Tool Reasoning",
+    "authors": [
+      "Chenglin Li",
+      "Qianglong Chen",
+      "Feng Han",
+      "Yikun Wang",
+      "Xingxi Yin",
+      "Yan Gong",
+      "Ruilin Li",
+      "Yin Zhang",
+      "Jiaqi Wang"
+    ],
+    "arxiv_id": "2601.15724v2",
+    "abstract": "Long-form video understanding remains a fundamental challenge for current Video Large Language Models. Most existing models rely on static reasoning over uniformly sampled frames, which weakens temporal localization and leads to substantial information loss in long videos. Agentic tools such as temporal retrieval, spatial zoom, and temporal zoom offer a natural way to overcome these limitations by enabling adaptive exploration of key moments. However, constructing agentic video understanding data requires models that already possess strong long-form video comprehension, creating a circular dependency. We address this challenge with VideoThinker, an agentic Video Large Language Model trained entirely on synthetic tool interaction trajectories. Our key idea is to convert videos into rich captions and employ a powerful agentic language model to generate multi-step tool use sequences in caption space. These trajectories are subsequently grounded back to video by replacing captions with the corresponding frames, yielding a large-scale interleaved video and tool reasoning dataset without requiring any long-form understanding from the underlying model. Training on this synthetic agentic dataset equips VideoThinker with dynamic reasoning capabilities, adaptive temporal exploration, and multi-step tool use. Remarkably, VideoThinker significantly outperforms both caption-only language model agents and strong video model baselines across long-video benchmarks, demonstrating the effectiveness of tool augmented synthetic data and adaptive retrieval and zoom reasoning for long-form video understanding.",
+    "filename": "VideoThinker_Building_Agentic_VideoLLMs_with_LLM-Guided_Tool_Reasoning.pdf"
+  },
+  {
+    "title": "ToolRL: Reward is All Tool Learning Needs",
+    "authors": [
+      "Cheng Qian",
+      "Emre Can Acikgoz",
+      "Qi He",
+      "Hongru Wang",
+      "Xiusi Chen",
+      "Dilek Hakkani-Tür",
+      "Gokhan Tur",
+      "Heng Ji"
+    ],
+    "arxiv_id": "2504.13958v1",
+    "abstract": "Current Large Language Models (LLMs) often undergo supervised fine-tuning (SFT) to acquire tool use capabilities. However, SFT struggles to generalize to unfamiliar or complex tool use scenarios. Recent advancements in reinforcement learning (RL), particularly with R1-like models, have demonstrated promising reasoning and generalization abilities. Yet, reward design for tool use presents unique challenges: multiple tools may be invoked with diverse parameters, and coarse-grained reward signals, such as answer matching, fail to offer the finegrained feedback required for effective learning. In this work, we present the first comprehensive study on reward design for tool selection and application tasks within the RL paradigm. We systematically explore a wide range of reward strategies, analyzing their types, scales, granularity, and temporal dynamics. Building on these insights, we propose a principled reward design tailored for tool use tasks and apply it to train LLMs using Group Relative Policy Optimization (GRPO). Empirical evaluations across diverse benchmarks demonstrate that our approach yields robust, scalable, and stable training, achieving a 17% improvement over base models and a 15% gain over SFT models. These results highlight the critical role of thoughtful reward design in enhancing the tool use capabilities and generalization performance of LLMs. All the codes are released to facilitate future research.",
+    "filename": "ToolRL_Reward_is_All_Tool_Learning_Needs.pdf"
+  },
+  {
+    "title": "Agentic Tool Use in Large Language Models",
+    "authors": [
+      "Jinchao Hu",
+      "Meizhi Zhong",
+      "Kehai Chen",
+      "Xuefeng Bai",
+      "Min Zhang"
+    ],
+    "arxiv_id": "2604.00835v2",
+    "abstract": "Large language models are increasingly being deployed as autonomous agents yet their real world effectiveness depends on reliable tools for information retrieval, computation and external action. Existing studies remain fragmented across tasks, tool types, and training settings, lacking a unified view of how tool-use methods differ and evolve. This paper organizes the literature into three paradigms: prompting as plug-and-play, supervised tool learning and reward-driven tool policy learning, analyzes their methods, strengths and failure modes, reviews the evaluation landscape and highlights key challenges, aiming to address this fragmentation and provide a more structured evolutionary view of agentic tool use.",
+    "filename": "Agentic_Tool_Use_in_Large_Language_Models.pdf"
+  },
+  {
+    "title": "Reverse Chain: A Generic-Rule for LLMs to Master Multi-API Planning",
+    "authors": [
+      "Yinger Zhang",
+      "Hui Cai",
+      "Xeirui Song",
+      "Yicheng Chen",
+      "Rui Sun",
+      "Jing Zheng"
+    ],
+    "arxiv_id": "2310.04474v3",
+    "abstract": "While enabling large language models to implement function calling (known as APIs) can greatly enhance the performance of Large Language Models (LLMs), function calling is still a challenging task due to the complicated relations between different APIs, especially in a context-learning setting without fine-tuning. This paper introduces ``Reverse Chain'', a controllable, target-driven approach designed to empower LLMs with the capability to operate external APIs only via prompts. Recognizing that most LLMs have limited tool-use capabilities, Reverse Chain limits LLMs to executing simple tasks, e.g., API Selection and Argument Completion. Furthermore, to manage a controllable multi-function calling, Reverse Chain adopts a generic rule based on a backward reasoning process. This rule determines when to do API selection or Argument completion. To evaluate the multi-tool-use capability of LLMs, we have released a compositional multi-tool task dataset, available at \\url{https://anonymous.4open.science/r/reverse-chain-8681}. Extensive numerical experiments validate the remarkable proficiency of Reverse Chain in managing multiple API calls.",
+    "filename": "Reverse_Chain_A_Generic-Rule_for_LLMs_to_Master_Multi-API_Planning.pdf"
+  },
+  {
+    "title": "Provable Benefits of In-Tool Learning for Large Language Models",
+    "authors": [
+      "Sam Houliston",
+      "Ambroise Odonnat",
+      "Charles Arnal",
+      "Vivien Cabannes"
+    ],
+    "arxiv_id": "2508.20755v1",
+    "abstract": "Tool-augmented language models, equipped with retrieval, memory, or external APIs, are reshaping AI, yet their theoretical advantages remain underexplored. In this paper, we address this question by demonstrating the benefits of in-tool learning (external retrieval) over in-weight learning (memorization) for factual recall. We show that the number of facts a model can memorize solely in its weights is fundamentally limited by its parameter count. In contrast, we prove that tool-use enables unbounded factual recall via a simple and efficient circuit construction. These results are validated in controlled experiments, where tool-using models consistently outperform memorizing ones. We further show that for pretrained large language models, teaching tool-use and general rules is more effective than finetuning facts into memory. Our work provides both a theoretical and empirical foundation, establishing why tool-augmented workflows are not just practical, but provably more scalable.",
+    "filename": "Provable_Benefits_of_In-Tool_Learning_for_Large_Language_Models.pdf"
+  },
+  {
+    "title": "Small Reasoning Models are Instruction Followers in Function Calling",
+    "authors": [
+      "Yalda Taheri",
+      "Mohammad Hassan Heydari",
+      "Erfan Naaman",
+      "Afsaneh Fatemi"
+    ],
+    "arxiv_id": "2608.22472v1",
+    "abstract": "Function calling represents the core capability of agentic large language models (LLMs). Existing research has focused on enhancing LLMs function-calling accuracy through fine-tuning, reinforcement learning (RL), and multi-agent frameworks, particularly for native function-calling LLMs. This work demonstrates that LLMs achieve superior accuracy in function calling in instruction-following contexts (i.e., standard user-assistant interactions) rather than a tool calling context. We introduce Instruction-Followed Function Calling (IFFC), a novel framework that decouples function-calling logic from the primary LLM and delegates it to a dedicated smaller model operating within the instruction-following paradigm. Our method consistently outperforms both native function calling (NFC) and prompt-based function calling (PFC) baselines, with particularly strong gains on reasoning-oriented LLMs. Furthermore, we demonstrate that IFFC maintains robust performance under aggressive quantization, enabling efficient on-device deployment without significant accuracy degradation. This work establishes a new paradigm for reliable, resource-efficient function calling in edge-computing scenarios.",
+    "filename": "Small_Reasoning_Models_are_Instruction_Followers_in_Function_Calling.pdf"
+  },
+  {
+    "title": "EduMod-LLM: A Modular Approach for Designing Flexible and Transparent Educational Assistants",
+    "authors": [
+      "Meenakshi Mittal",
+      "Rishi Khare",
+      "Mihran Miroyan",
+      "Chancharik Mitra",
+      "Narges Norouzi"
+    ],
+    "arxiv_id": "2511.21742v1",
+    "abstract": "With the growing use of Large Language Model (LLM)-based Question-Answering (QA) systems in education, it is critical to evaluate their performance across individual pipeline components. In this work, we introduce {\\model}, a modular function-calling LLM pipeline, and present a comprehensive evaluation along three key axes: function calling strategies, retrieval methods, and generative language models. Our framework enables fine-grained analysis by isolating and assessing each component. We benchmark function-calling performance across LLMs, compare our novel structure-aware retrieval method to vector-based and LLM-scoring baselines, and evaluate various LLMs for response synthesis. This modular approach reveals specific failure modes and performance patterns, supporting the development of interpretable and effective educational QA systems. Our findings demonstrate the value of modular function calling in improving system transparency and pedagogical alignment. Website and Supplementary Material: https://chancharikmitra.github.io/EduMod-LLM-website/",
+    "filename": "EduMod-LLM_A_Modular_Approach_for_Designing_Flexible_and_Transparent_Educational_Assistants.pdf"
+  },
+  {
+    "title": "ComplexFuncBench: Exploring Multi-Step and Constrained Function Calling under Long-Context Scenario",
+    "authors": [
+      "Lucen Zhong",
+      "Zhengxiao Du",
+      "Xiaohan Zhang",
+      "Haiyi Hu",
+      "Jie Tang"
+    ],
+    "arxiv_id": "2501.10132v1",
+    "abstract": "Enhancing large language models (LLMs) with real-time APIs can help generate more accurate and up-to-date responses. However, evaluating the function calling abilities of LLMs in real-world scenarios remains under-explored due to the complexity of data collection and evaluation. In this work, we introduce ComplexFuncBench, a benchmark for complex function calling across five real-world scenarios. Compared to existing benchmarks, ComplexFuncBench encompasses multi-step and constrained function calling, which requires long-parameter filing, parameter value reasoning, and 128k long context. Additionally, we propose an automatic framework, ComplexEval, for quantitatively evaluating complex function calling tasks. Through comprehensive experiments, we demonstrate the deficiencies of state-of-the-art LLMs in function calling and suggest future directions for optimizing these capabilities. The data and code are available at \\url{https://github.com/THUDM/ComplexFuncBench}.",
+    "filename": "ComplexFuncBench_Exploring_Multi-Step_and_Constrained_Function_Calling_under_Long-Context_Scenario.pdf"
+  },
+  {
+    "title": "Enhancing Function-Calling Capabilities in LLMs: Strategies for Prompt Formats, Data Integration, and Multilingual Translation",
+    "authors": [
+      "Yi-Chang Chen",
+      "Po-Chun Hsu",
+      "Chan-Jan Hsu",
+      "Da-shan Shiu"
+    ],
+    "arxiv_id": "2412.01130v2",
+    "abstract": "Large language models (LLMs) have significantly advanced autonomous agents, particularly in zero-shot tool usage, also known as function calling. This research delves into enhancing the function-calling capabilities of LLMs by exploring different approaches, including prompt formats for integrating function descriptions, blending function-calling and instruction-following data, introducing a novel Decision Token for conditional prompts, leveraging chain-of-thought reasoning, and overcoming multilingual challenges with a translation pipeline. Our key findings and contributions are as follows: (1) Instruction-following data improves both function-calling accuracy and relevance detection. (2) The use of the newly proposed Decision Token, combined with synthetic non-function-call data, enhances relevance detection. (3) A tailored translation pipeline effectively overcomes multilingual limitations, demonstrating significant improvements in Traditional Chinese. These insights highlight the potential for improved function-calling capabilities and multilingual applications in LLMs.",
+    "filename": "Enhancing_Function-Calling_Capabilities_in_LLMs_Strategies_for_Prompt_Formats,_Data_Integration,_and_Multilingual_Transl.pdf"
+  },
+  {
+    "title": "TinyAgent: Function Calling at the Edge",
+    "authors": [
+      "Lutfi Eren Erdogan",
+      "Nicholas Lee",
+      "Siddharth Jha",
+      "Sehoon Kim",
+      "Ryan Tabrizi",
+      "Suhong Moon",
+      "Coleman Hooper",
+      "Gopala Anumanchipalli",
+      "Kurt Keutzer",
+      "Amir Gholami"
+    ],
+    "arxiv_id": "2409.00608v3",
+    "abstract": "Recent large language models (LLMs) have enabled the development of advanced agentic systems that can integrate various tools and APIs to fulfill user queries through function calling. However, the deployment of these LLMs on the edge has not been explored since they typically require cloud-based infrastructure due to their substantial model size and computational demands. To this end, we present TinyAgent, an end-to-end framework for training and deploying task-specific small language model agents capable of function calling for driving agentic systems at the edge. We first show how to enable accurate function calling for open-source models via the LLMCompiler framework. We then systematically curate a high-quality dataset for function calling, which we use to fine-tune two small language models, TinyAgent-1.1B and 7B. For efficient inference, we introduce a novel tool retrieval method to reduce the input prompt length and utilize quantization to further accelerate the inference speed. As a driving application, we demonstrate a local Siri-like system for Apple's MacBook that can execute user commands through text or voice input. Our results show that our models can achieve, and even surpass, the function-calling capabilities of larger models like GPT-4-Turbo, while being fully deployed at the edge. We open-source our dataset, models, and installable package and provide a demo video for our MacBook assistant agent.",
+    "filename": "TinyAgent_Function_Calling_at_the_Edge.pdf"
+  },
+  {
+    "title": "Less is More: Optimizing Function Calling for LLM Execution on Edge Devices",
+    "authors": [
+      "Varatheepan Paramanayakam",
+      "Andreas Karatzas",
+      "Iraklis Anagnostopoulos",
+      "Dimitrios Stamoulis"
+    ],
+    "arxiv_id": "2411.15399v1",
+    "abstract": "The advanced function-calling capabilities of foundation models open up new possibilities for deploying agents to perform complex API tasks. However, managing large amounts of data and interacting with numerous APIs makes function calling hardware-intensive and costly, especially on edge devices. Current Large Language Models (LLMs) struggle with function calling at the edge because they cannot handle complex inputs or manage multiple tools effectively. This results in low task-completion accuracy, increased delays, and higher power consumption. In this work, we introduce Less-is-More, a novel fine-tuning-free function-calling scheme for dynamic tool selection. Our approach is based on the key insight that selectively reducing the number of tools available to LLMs significantly improves their function-calling performance, execution time, and power efficiency on edge devices. Experimental results with state-of-the-art LLMs on edge hardware show agentic success rate improvements, with execution time reduced by up to 70% and power consumption by up to 40%.",
+    "filename": "Less_is_More_Optimizing_Function_Calling_for_LLM_Execution_on_Edge_Devices.pdf"
+  },
+  {
+    "title": "R2IF: Aligning Reasoning with Decisions via Composite Rewards for Interpretable LLM Function Calling",
+    "authors": [
+      "Aijia Cheng",
+      "Kailong Wang",
+      "Ling Shi",
+      "Yongxin Zhao"
+    ],
+    "arxiv_id": "2604.20316v2",
+    "abstract": "Function calling empowers large language models (LLMs) to interface with external tools, yet existing RL-based approaches suffer from misalignment between reasoning processes and tool-call decisions. We propose R2IF, a reasoning-aware RL framework for interpretable function calling, adopting a composite reward integrating format/correctness constraints, Chain-of-Thought Effectiveness Reward (CER), and Specification-Modification-Value (SMV) reward, optimized via GRPO. Experiments on BFCL/ACEBench show R2IF outperforms baselines by up to 34.62% (Llama3.2-3B on BFCL) with positive Average CoT Effectiveness (0.05 for Llama3.2-3B), enhancing both function-calling accuracy and interpretability for reliable tool-augmented LLM deployment.",
+    "filename": "R2IF_Aligning_Reasoning_with_Decisions_via_Composite_Rewards_for_Interpretable_LLM_Function_Calling.pdf"
+  },
+  {
+    "title": "On the Robustness of Agentic Function Calling",
+    "authors": [
+      "Ella Rabinovich",
+      "Ateret Anaby-Tavor"
+    ],
+    "arxiv_id": "2504.00914v1",
+    "abstract": "Large Language Models (LLMs) are increasingly acting as autonomous agents, with function calling (FC) capabilities enabling them to invoke specific tools for tasks. While prior research has primarily focused on improving FC accuracy, little attention has been given to the robustness of these agents to perturbations in their input. We introduce a benchmark assessing FC robustness in two key areas: resilience to naturalistic query variations, and stability in function calling when the toolkit expands with semantically related tools. Evaluating best-performing FC models on a carefully expanded subset of the Berkeley function calling leaderboard (BFCL), we identify critical weaknesses in existing evaluation methodologies, and highlight areas for improvement in real-world agentic deployments.",
+    "filename": "On_the_Robustness_of_Agentic_Function_Calling.pdf"
+  },
+  {
+    "title": "The Breeze 2 Herd of Models: Traditional Chinese LLMs Based on Llama with Vision-Aware and Function-Calling Capabilities",
+    "authors": [
+      "MediaTek Research",
+      ":",
+      "Chan-Jan Hsu",
+      "Chia-Sheng Liu",
+      "Meng-Hsi Chen",
+      "Muxi Chen",
+      "Po-Chun Hsu",
+      "Yi-Chang Chen",
+      "Da-Shan Shiu"
+    ],
+    "arxiv_id": "2501.13921v3",
+    "abstract": "Llama-Breeze2 (hereinafter referred to as Breeze2) is a suite of advanced multi-modal language models, available in 3B and 8B parameter configurations, specifically designed to enhance Traditional Chinese language representation. Building upon the Llama 3.2 model family, we continue the pre-training of Breeze2 on an extensive corpus to enhance the linguistic and cultural heritage of Traditional Chinese. In addition to language modeling capabilities, we significantly augment the models with function calling and vision understanding capabilities. At the time of this publication, as far as we are aware, absent reasoning-inducing prompts, Breeze2 are the strongest performing models in Traditional Chinese function calling and image understanding in its size class. The effectiveness of Breeze2 is benchmarked across various tasks, including Taiwan general knowledge, instruction-following, long context, function calling, and vision understanding. We are publicly releasing all Breeze2 models under the Llama 3.2 Community License. We also showcase the capabilities of the model running on mobile platform with a mobile application which we also open source.",
+    "filename": "The_Breeze_2_Herd_of_Models_Traditional_Chinese_LLMs_Based_on_Llama_with_Vision-Aware_and_Function-Calling_Capabilities.pdf"
+  },
+  {
+    "title": "Hammer: Robust Function-Calling for On-Device Language Models via Function Masking",
+    "authors": [
+      "Qiqiang Lin",
+      "Muning Wen",
+      "Qiuying Peng",
+      "Guanyu Nie",
+      "Junwei Liao",
+      "Jun Wang",
+      "Xiaoyun Mo",
+      "Jiamu Zhou",
+      "Cheng Cheng",
+      "Yin Zhao",
+      "Jun Wang",
+      "Weinan Zhang"
+    ],
+    "arxiv_id": "2410.04587v2",
+    "abstract": "Large language models have demonstrated impressive value in performing as autonomous agents when equipped with external tools and API calls. Nonetheless, effectively harnessing their potential for executing complex tasks crucially relies on enhancements in their function calling capabilities. This paper identifies a critical gap in existing function calling models, where performance varies significantly across benchmarks, often due to being misled by specific naming conventions. To address such an issue, we introduce Hammer, a novel family of foundation models specifically engineered for on-device function calling. Hammer employs an augmented dataset that enhances models' sensitivity to irrelevant functions and incorporates function masking techniques to minimize misleading. Our empirical evaluations reveal that Hammer not only outperforms larger models but also demonstrates robust generalization across diverse benchmarks, achieving sota results. Our open source contributions include a specialized dataset for irrelevance detection, a tuning framework for enhanced generalization, and the Hammer models, establishing a new standard for function calling performance.",
+    "filename": "Hammer_Robust_Function-Calling_for_On-Device_Language_Models_via_Function_Masking.pdf"
+  }
+]
